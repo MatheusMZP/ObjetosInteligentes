@@ -1,3 +1,6 @@
+Projeto - Sensor de Ruido/som Para ODS9 -Industrias
+
+
 i)        Uma breve descrição do funcionamento e uso para quem quiser reproduzir.
 Este trabalho se concentra no desenvolvimento de um sistema IoT específico para monitoramento de níveis de ruído em máquinas industriais. 
 Utilizando um sensor de som integrado ao Arduino, o projeto visa avaliar se o nível de ruído de uma máquina ultrapassa o limite definido.
